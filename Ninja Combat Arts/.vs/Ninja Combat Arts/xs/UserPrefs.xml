@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{55F5C261-1DCF-FF79-FF50-87BE50373C1A}|">
+  <MonoDevelop.Ide.ItemProperties.Ninja_220Combat_220Arts PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Setup.cs" Line="5" Column="35" />
+      <File FileName="Assets/Scripts/Character.cs" Line="23" Column="12" />
+      <File FileName="Assets/Scripts/Stat.cs" Line="14" Column="3" />
+      <File FileName="Assets/Scripts/Player.cs" Line="10" Column="21" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="5" Column="31" />
+      <File FileName="../../../NJIT/Spring 2018/IT286/IT286 Design Challenge 1/Assets/Scripts/Main.cs" Line="34" Column="22" />
+      <File FileName="Assets/Scripts/Battle.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

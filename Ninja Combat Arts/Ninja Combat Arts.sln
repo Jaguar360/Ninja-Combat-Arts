@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninja Combat Arts", "Ninja Combat Arts.csproj", "{55F5C261-1DCF-FF79-FF50-87BE50373C1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F5C261-1DCF-FF79-FF50-87BE50373C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F5C261-1DCF-FF79-FF50-87BE50373C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F5C261-1DCF-FF79-FF50-87BE50373C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F5C261-1DCF-FF79-FF50-87BE50373C1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

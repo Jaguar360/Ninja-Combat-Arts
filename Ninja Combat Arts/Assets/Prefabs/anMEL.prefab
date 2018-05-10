@@ -35,6 +35,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4735952742200240}
+  - component: {fileID: 114341850599677586}
   m_Layer: 0
   m_Name: anMEL
   m_TagString: Player
@@ -136,7 +137,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1023731954463322}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -2, z: 0}
+  m_LocalPosition: {x: -6.01, y: -2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4669746194137122}
@@ -159,6 +160,28 @@ Transform:
   m_Father: {fileID: 4735952742200240}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 151.001}
+--- !u!114 &114341850599677586
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1023731954463322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fa1a067087db406e95efbcfe544f7aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: anMEL
+  hp:
+    baseStat: 64
+  pow:
+    baseStat: 23
+  acc:
+    baseStat: 22
+  ki:
+    baseStat: 0
+  kipo:
+    baseStat: 2
 --- !u!212 &212009378330553340
 SpriteRenderer:
   m_ObjectHideFlags: 1

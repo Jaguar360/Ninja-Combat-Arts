@@ -51,6 +51,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4241727087296706}
+  - component: {fileID: 114723790813632682}
   m_Layer: 0
   m_Name: huRAN
   m_TagString: Player
@@ -91,7 +92,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1880903448757752}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2, y: 0, z: 0}
+  m_LocalPosition: {x: -8.01, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4161933675562656}
@@ -99,6 +100,28 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114723790813632682
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1880903448757752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fa1a067087db406e95efbcfe544f7aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: huRAN
+  hp:
+    baseStat: 52
+  pow:
+    baseStat: 16
+  acc:
+    baseStat: 21
+  ki:
+    baseStat: 30
+  kipo:
+    baseStat: 10
 --- !u!212 &212010379454881492
 SpriteRenderer:
   m_ObjectHideFlags: 1
