@@ -1,0 +1,218 @@
+sprite_sheet "woodpecker" 512 x 512 margin 1
+
+attacking "attacking.xcf.bz2"
+feather "feather.xcf.bz2"
+flying "flying.xcf.bz2"
+pecking "pecking.xcf.bz2"
+watching "watching.xcf.bz2"
+watching_right "watching-right.xcf.bz2"
+wig "wig.xcf.bz2"
+
+/*----------------------------------------------------------------------------*/
+/* pecking */
+"pecking 1" image_size * 0.125 with pecking
+  "leg"
+  "leg (back)"
+  "wing 1"
+  "body merged 1"
+;
+
+"pecking 2" image_size * 0.125 with pecking
+  "leg"
+  "leg (back)"
+  "wing 2"
+  "body merged 2"
+;
+
+"pecking 3" image_size * 0.125 with pecking
+  "leg"
+  "leg (back)"
+  "wing 3"
+  "body merged 3"
+;
+
+"pecking 4" image_size * 0.125 with pecking
+  "leg"
+  "leg (back)"
+  "wing 4"
+  "body merged 4"
+;
+
+/*----------------------------------------------------------------------------*/
+/* watching */
+"watching left" image_size * 0.125 with watching
+  "sunglasses"
+  "hair"
+  "beak"
+  "wing"
+  "leg"
+  "body"
+  "leg (back)"
+;
+
+"watching right" image_size * 0.125 with watching_right
+  "sunglasses"
+  "hair"
+  "beak"
+  "wing 1"
+  "leg"
+  "body"
+  "leg (back)"
+;
+
+/*----------------------------------------------------------------------------*/
+/* attacking */
+"attacking 1" image_size * 0.125 with attacking
+  "merged"
+  "speed 1"
+;
+
+"attacking 2" image_size * 0.125 with attacking
+  "merged"
+  "speed 1"
+  "speed 2"
+;
+
+"attacking 3" image_size * 0.125 with attacking
+  "merged"
+  "speed 1"
+  "speed 2"
+  "speed 3"
+;
+
+"attacking 4" image_size * 0.125 with attacking
+  "merged"
+  "speed 2"
+  "speed 3"
+;
+
+"attacking 5" image_size * 0.125 with attacking
+  "merged"
+  "speed 3"
+;
+
+"attacking 6" image_size * 0.125 with attacking
+  "merged"
+;
+
+/*----------------------------------------------------------------------------*/
+/* wig */
+"wig" image_size * 0.125 with wig
+  "main"
+;
+
+/*----------------------------------------------------------------------------*/
+/* feather */
+"white feather" image_size * 0.125 with feather
+  "main"
+;
+
+"green feather" image_size * 0.125 with feather
+  "main"
+  "green"
+;
+
+"red feather" image_size * 0.125 with feather
+  "main"
+  "red"
+;
+
+/*----------------------------------------------------------------------------*/
+/* flying */
+"flying 1" image_size * 0.125 with flying
+  "sunglasses"
+  "hair"
+  "beak"
+  "eyes"
+  "body"
+  "right leg"
+  "left leg"
+
+  "right wing 1"
+  "left wing 1"
+;
+
+"flying 2" image_size * 0.125 with flying
+  "sunglasses"
+  "hair"
+  "beak"
+  "eyes"
+  "body"
+  "right leg"
+  "left leg"
+
+  "right wing 2"
+  "left wing 2"
+;
+
+"flying 3" image_size * 0.125 with flying
+  "sunglasses"
+  "hair"
+  "beak"
+  "eyes"
+  "body"
+  "right leg"
+  "left leg"
+
+  "right wing 3"
+  "left wing 3"
+;
+
+"flying 4" image_size * 0.125 with flying
+  "sunglasses"
+  "hair"
+  "beak"
+  "eyes"
+  "body"
+  "right leg"
+  "left leg"
+
+  "right wing 4"
+  "left wing 4"
+;
+
+/*----------------------------------------------------------------------------*/
+/* dying */
+"dying 1" image_size * 0.125 with flying
+  "beak"
+  "eyes"
+  "body"
+  "right leg"
+  "left leg"
+
+  "right wing 1"
+  "left wing 4"
+;
+
+"dying 2" image_size * 0.125 with flying
+  "beak"
+  "eyes"
+  "body"
+  "right leg"
+  "left leg"
+
+  "right wing 2"
+  "left wing 3"
+;
+
+"dying 3" image_size * 0.125 with flying
+  "beak"
+  "eyes"
+  "body"
+  "right leg"
+  "left leg"
+
+  "right wing 3"
+  "left wing 2"
+;
+
+"dying 4" image_size * 0.125 with flying
+  "beak"
+  "eyes"
+  "body"
+  "right leg"
+  "left leg"
+
+  "right wing 4"
+  "left wing 1"
+;

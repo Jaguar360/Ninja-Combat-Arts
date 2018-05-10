@@ -1,0 +1,2447 @@
+fileFormatVersion: 2
+guid: a9961b6d4396b474594cae39fff4b0e6
+timeCreated: 1525925961
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wizard_hat_male_0
+    21300002: wizard_hat_male_1
+    21300004: wizard_hat_male_2
+    21300006: wizard_hat_male_3
+    21300008: wizard_hat_male_4
+    21300010: wizard_hat_male_5
+    21300012: wizard_hat_male_6
+    21300014: wizard_hat_male_7
+    21300016: wizard_hat_male_8
+    21300018: wizard_hat_male_9
+    21300020: wizard_hat_male_10
+    21300022: wizard_hat_male_11
+    21300024: wizard_hat_male_12
+    21300026: wizard_hat_male_13
+    21300028: wizard_hat_male_14
+    21300030: wizard_hat_male_15
+    21300032: wizard_hat_male_16
+    21300034: wizard_hat_male_17
+    21300036: wizard_hat_male_18
+    21300038: wizard_hat_male_19
+    21300040: wizard_hat_male_20
+    21300042: wizard_hat_male_21
+    21300044: wizard_hat_male_22
+    21300046: wizard_hat_male_23
+    21300048: wizard_hat_male_24
+    21300050: wizard_hat_male_25
+    21300052: wizard_hat_male_26
+    21300054: wizard_hat_male_27
+    21300056: wizard_hat_male_28
+    21300058: wizard_hat_male_29
+    21300060: wizard_hat_male_30
+    21300062: wizard_hat_male_31
+    21300064: wizard_hat_male_32
+    21300066: wizard_hat_male_33
+    21300068: wizard_hat_male_34
+    21300070: wizard_hat_male_35
+    21300072: wizard_hat_male_36
+    21300074: wizard_hat_male_37
+    21300076: wizard_hat_male_38
+    21300078: wizard_hat_male_39
+    21300080: wizard_hat_male_40
+    21300082: wizard_hat_male_41
+    21300084: wizard_hat_male_42
+    21300086: wizard_hat_male_43
+    21300088: wizard_hat_male_44
+    21300090: wizard_hat_male_45
+    21300092: wizard_hat_male_46
+    21300094: wizard_hat_male_47
+    21300096: wizard_hat_male_48
+    21300098: wizard_hat_male_49
+    21300100: wizard_hat_male_50
+    21300102: wizard_hat_male_51
+    21300104: wizard_hat_male_52
+    21300106: wizard_hat_male_53
+    21300108: wizard_hat_male_54
+    21300110: wizard_hat_male_55
+    21300112: wizard_hat_male_56
+    21300114: wizard_hat_male_57
+    21300116: wizard_hat_male_58
+    21300118: wizard_hat_male_59
+    21300120: wizard_hat_male_60
+    21300122: wizard_hat_male_61
+    21300124: wizard_hat_male_62
+    21300126: wizard_hat_male_63
+    21300128: wizard_hat_male_64
+    21300130: wizard_hat_male_65
+    21300132: wizard_hat_male_66
+    21300134: wizard_hat_male_67
+    21300136: wizard_hat_male_68
+    21300138: wizard_hat_male_69
+    21300140: wizard_hat_male_70
+    21300142: wizard_hat_male_71
+    21300144: wizard_hat_male_72
+    21300146: wizard_hat_male_73
+    21300148: wizard_hat_male_74
+    21300150: wizard_hat_male_75
+    21300152: wizard_hat_male_76
+    21300154: wizard_hat_male_77
+    21300156: wizard_hat_male_78
+    21300158: wizard_hat_male_79
+    21300160: wizard_hat_male_80
+    21300162: wizard_hat_male_81
+    21300164: wizard_hat_male_82
+    21300166: wizard_hat_male_83
+    21300168: wizard_hat_male_84
+    21300170: wizard_hat_male_85
+    21300172: wizard_hat_male_86
+    21300174: wizard_hat_male_87
+    21300176: wizard_hat_male_88
+    21300178: wizard_hat_male_89
+    21300180: wizard_hat_male_90
+    21300182: wizard_hat_male_91
+    21300184: wizard_hat_male_92
+    21300186: wizard_hat_male_93
+    21300188: wizard_hat_male_94
+    21300190: wizard_hat_male_95
+    21300192: wizard_hat_male_96
+    21300194: wizard_hat_male_97
+    21300196: wizard_hat_male_98
+    21300198: wizard_hat_male_99
+    21300200: wizard_hat_male_100
+    21300202: wizard_hat_male_101
+    21300204: wizard_hat_male_102
+    21300206: wizard_hat_male_103
+    21300208: wizard_hat_male_104
+    21300210: wizard_hat_male_105
+    21300212: wizard_hat_male_106
+    21300214: wizard_hat_male_107
+    21300216: wizard_hat_male_108
+    21300218: wizard_hat_male_109
+    21300220: wizard_hat_male_110
+    21300222: wizard_hat_male_111
+    21300224: wizard_hat_male_112
+    21300226: wizard_hat_male_113
+    21300228: wizard_hat_male_114
+    21300230: wizard_hat_male_115
+    21300232: wizard_hat_male_116
+    21300234: wizard_hat_male_117
+    21300236: wizard_hat_male_118
+    21300238: wizard_hat_male_119
+    21300240: wizard_hat_male_120
+    21300242: wizard_hat_male_121
+    21300244: wizard_hat_male_122
+    21300246: wizard_hat_male_123
+    21300248: wizard_hat_male_124
+    21300250: wizard_hat_male_125
+    21300252: wizard_hat_male_126
+    21300254: wizard_hat_male_127
+    21300256: wizard_hat_male_128
+    21300258: wizard_hat_male_129
+    21300260: wizard_hat_male_130
+    21300262: wizard_hat_male_131
+    21300264: wizard_hat_male_132
+    21300266: wizard_hat_male_133
+    21300268: wizard_hat_male_134
+    21300270: wizard_hat_male_135
+    21300272: wizard_hat_male_136
+    21300274: wizard_hat_male_137
+    21300276: wizard_hat_male_138
+    21300278: wizard_hat_male_139
+    21300280: wizard_hat_male_140
+    21300282: wizard_hat_male_141
+    21300284: wizard_hat_male_142
+    21300286: wizard_hat_male_143
+    21300288: wizard_hat_male_144
+    21300290: wizard_hat_male_145
+    21300292: wizard_hat_male_146
+    21300294: wizard_hat_male_147
+    21300296: wizard_hat_male_148
+    21300298: wizard_hat_male_149
+    21300300: wizard_hat_male_150
+    21300302: wizard_hat_male_151
+    21300304: wizard_hat_male_152
+    21300306: wizard_hat_male_153
+    21300308: wizard_hat_male_154
+    21300310: wizard_hat_male_155
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wizard_hat_male_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1313
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1313
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1313
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1313
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1313
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1313
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1313
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1250
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1250
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1250
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1250
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1250
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1250
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1250
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1187
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1187
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1187
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1187
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1187
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_19
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1187
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1187
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1122
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1122
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1122
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1122
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1122
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1122
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_27
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1122
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1057
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1056
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1057
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1057
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1056
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1056
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1056
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1057
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 994
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 994
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 994
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 994
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 994
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_41
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 994
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_42
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 994
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 994
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 931
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 931
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_46
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 931
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_47
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 931
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 930
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 930
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_50
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 930
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_51
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 931
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 866
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 866
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 866
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 866
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 866
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_57
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 866
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_58
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 866
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_59
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 866
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 802
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_61
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 802
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 802
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 801
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 802
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 802
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 802
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 801
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_68
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 802
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 738
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 737
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 738
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_72
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 738
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 738
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 737
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 738
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 738
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_77
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 738
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 675
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 675
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_80
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 675
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 674
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 675
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 675
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_84
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 675
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_85
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 674
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_86
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 675
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 610
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_88
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 609
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_89
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 610
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 610
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_91
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 610
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_92
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 609
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_93
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 610
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_94
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 610
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 545
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_97
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 544
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 544
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 545
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_100
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 545
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 545
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_102
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 482
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_103
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 480
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 482
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_105
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 482
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_106
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 482
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 482
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 419
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_109
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 419
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_110
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 417
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 418
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_112
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 419
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_113
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 419
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 354
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_115
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 352
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 354
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 354
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_118
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 354
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_119
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 354
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 289
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_121
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 288
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 289
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 289
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_124
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 289
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_125
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 289
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_126
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 289
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_127
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 289
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_128
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 289
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_131
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_132
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_133
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_135
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_136
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_137
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 226
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_139
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_140
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_141
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_142
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_143
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_144
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_145
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_146
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 163
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_147
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_148
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_149
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_150
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_151
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_152
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_153
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_154
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wizard_hat_male_155
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 98
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

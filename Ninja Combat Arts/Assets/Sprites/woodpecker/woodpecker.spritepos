@@ -1,0 +1,24 @@
+flying 1: 0 0 96 79
+flying 2: 97 0 96 79
+flying 3: 194 0 96 79
+flying 4: 291 0 96 79
+dying 1: 388 0 96 79
+dying 2: 0 80 96 79
+dying 3: 97 80 96 79
+dying 4: 194 80 96 79
+attacking 1: 291 80 107 37
+attacking 2: 399 80 107 37
+attacking 3: 291 118 107 37
+attacking 4: 399 118 107 37
+attacking 5: 0 160 107 37
+attacking 6: 108 160 107 37
+pecking 1: 0 198 43 84
+pecking 2: 44 198 43 84
+pecking 3: 88 198 43 84
+pecking 4: 132 198 43 84
+watching left: 176 198 40 81
+watching right: 217 198 37 79
+wig: 485 0 26 16
+white feather: 485 17 24 7
+green feather: 485 25 24 7
+red feather: 485 33 24 7
