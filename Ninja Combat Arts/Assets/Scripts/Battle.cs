@@ -15,10 +15,14 @@ public class Battle : MonoBehaviour
 	public Enemy[] enemies;
 
 	private Enemy curEnemy;
+	private int enCount;
     private bool gameOver;
     private int sceneNum;
 	private Player ninja;
 	private int i;
+	private Recovpo recovpo;
+	private DamageNinpo dmgSpell;
+
 	// Use this for initialization
 	void Start () 
 	{
@@ -28,22 +32,19 @@ public class Battle : MonoBehaviour
         sushi.gameObject.SetActive(false);
 
 		healthtext.gameObject.SetActive(false);
-  
+
+		enCount = enemies.Length;
 		gameOver = false;
         sceneNum = SceneManager.GetActiveScene().buildIndex;
 		i = 0;
+		recovpo = FindObjectOfType<Recovpo>();
+		dmgSpell = FindObjectOfType<DamageNinpo>();
 	}
 	
 	// Update is called once per frame
 	void Update () 
 	{
-		if (gameOver) 
-		{
-			foreach(Button button in FindObjectsOfType<Button>()) {
-				button.gameObject.SetActive(false);
-			}
-			text.text = "Game Over\nPress Esc or R to restart";
-		}	
+		
 
 		if (Input.GetKeyDown(KeyCode.Escape) || Input.GetKeyDown(KeyCode.R)) 
 		{
@@ -67,35 +68,155 @@ public class Battle : MonoBehaviour
         
 		curEnemy = enemies[i];
 		curEnemy.gameObject.SetActive(true);
-		attack.onClick.AddListener(Attack);
 
-		if (!curEnemy.IsAlive())
-        {
-            i++;
-        }
+		attack.onClick.AddListener(Attack);
+		recov.onClick.AddListener(Recov);
+		pyro.onClick.AddListener(Pyro);
+
+		UpdateHealth();      
 
 		//if (!player.IsAlive())
         //{
         //    gameOver = true;
-        //}
-
+        //}      
 	} 
+
+	public void Continue() 
+	{
+		if (i < enCount)
+		{
+			curEnemy = enemies[i];
+			curEnemy.gameObject.SetActive(true);
+		}
+
+		else 
+		{
+			foreach (Button button in FindObjectsOfType<Button>())
+            {
+                button.gameObject.SetActive(false);
+            }
+            text.text = "Congratulations, you won!\nPress Esc or R to play again.";	
+		}
+
+		UpdateHealth();
+
+		if (!ninja.IsAlive())
+        {
+            gameOver = true;
+        }
+
+		if (curEnemy == null)
+        {
+            foreach (Button button in FindObjectsOfType<Button>())
+            {
+                button.gameObject.SetActive(false);
+            }
+            text.text = "Congratulations, you won!\nPress Esc or R to play again.";
+        }
+	}
 
 	void Attack() 
 	{
-		curEnemy.TakeDamage(ninja.Attack());
-		text.text += "\n" + curEnemy.name + "took " + ninja.Attack() + "damage!";
+		int damage = ninja.Attack();
+
+		Debug.Log(curEnemy.name + " took " + damage + " damage!");
+		text.text = curEnemy.name + " took " + damage + " damage!";
+
+		int enemyDamage = curEnemy.Attack();
+
+		Debug.Log(ninja.name + " took " + enemyDamage + " damage!");
+		text.text += "\n" + ninja.name + " took " + enemyDamage + " damage!";
+
+        curEnemy.TakeDamage(damage);
+        
+		if (!curEnemy.IsAlive())
+        {
+            i++;
+			text.text += "\nThe enemy died.";
+        }
+
+		ninja.TakeDamage(enemyDamage);
+
+		if (gameOver) 
+        {
+            foreach(Button button in FindObjectsOfType<Button>()) 
+            {
+                button.gameObject.SetActive(false);
+            }
+            text.text += "\nGame Over\nPress Esc or R to restart";
+        }   
+              
+		UpdateHealth();
+		Continue();
 	}
 
-	void Pyro() {
-		
+	void Pyro() 
+	{
+		if (ninja.getCurKi() < dmgSpell.ki.getBase())
+		{
+			text.text = "Not enough Ki for this technique";
+		}
+
+		else
+		{
+			int damage = dmgSpell.pow.getBase() * ninja.kipo.getBase() / 20 + (int)Random.Range(-2, 4);
+			ninja.consumeKi(dmgSpell.ki.getBase());
+
+			Debug.Log(curEnemy.name + " took " + damage + " damage!");
+			text.text = curEnemy.name + " took " + damage + " damage!";
+
+			int enemyDamage = curEnemy.Attack();
+
+			Debug.Log(ninja.name + " took " + enemyDamage + " damage!");
+			text.text += "\n" + ninja.name + " took " + enemyDamage + " damage!";
+
+			curEnemy.TakeDamage(damage);
+
+			if (!curEnemy.IsAlive())
+			{
+				i++;
+				text.text += "\nThe enemy died.";
+			}
+
+			ninja.TakeDamage(enemyDamage);
+
+			if (gameOver)
+			{
+				foreach (Button button in FindObjectsOfType<Button>())
+				{
+					button.gameObject.SetActive(false);
+				}
+				text.text += "\nGame Over\nPress Esc or R to restart";
+			}
+		}
+
+        UpdateHealth();
+        Continue();
 	}
 
-	void Recov() {
-		
+	void Recov() 
+	{
+		if (ninja.getCurKi() < recovpo.ki.getBase()) 
+		{
+			text.text = "Not enough Ki for this technique";
+		}
+
+		else
+		{
+			int healAmount = recovpo.baseHeal.getBase() * ninja.kipo.getBase() / 20;
+			ninja.Heal(healAmount);
+
+			ninja.consumeKi(recovpo.ki.getBase());
+
+			Debug.Log(ninja.name + " healed " + healAmount + " damage!");
+			text.text = "\n" + ninja.name + " healed " + healAmount + " damage!";
+
+			UpdateHealth();
+		}
 	}
 
-	void Sushi() {
+	void Sushi() 
+	{
 		
 	}
 

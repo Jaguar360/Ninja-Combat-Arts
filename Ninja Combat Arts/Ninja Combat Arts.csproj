@@ -321,10 +321,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Battle.cs" />
     <Compile Include="Assets\Scripts\Character.cs" />
+    <Compile Include="Assets\Scripts\DamageNinpo.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\Recovpo.cs" />
     <Compile Include="Assets\Scripts\Setup.cs" />
     <Compile Include="Assets\Scripts\Stat.cs" />
+    <Compile Include="Assets\Scripts\Technique.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

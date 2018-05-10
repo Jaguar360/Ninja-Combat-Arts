@@ -11,7 +11,7 @@ public class Character : MonoBehaviour
 	private int curHP;
 	private bool isAlive;
 
-	void Awake()
+	void Start()
 	{
 		curHP = hp.getBase();
 		isAlive = true;
@@ -19,7 +19,7 @@ public class Character : MonoBehaviour
 
 	public int Attack()
 	{
-		int dmg = pow.getBase() / 2 + (int)Random.Range(-1, 2);
+		int dmg = pow.getBase() / 2 + (int)Random.Range(-2, 4);
 		if (dmg <= 0)
 		{
 			dmg = 0;
@@ -36,6 +36,15 @@ public class Character : MonoBehaviour
 		}
 	}
 
+	public void Heal(int amount) 
+	{
+		curHP += amount;
+		if (curHP >= hp.getBase()) 
+		{
+			curHP = hp.getBase();
+		}
+	}
+
 	public void Dead() 
 	{
 		isAlive = false;
@@ -46,7 +55,7 @@ public class Character : MonoBehaviour
 		return isAlive;
 	}
 
-	public void Die()
+	public virtual void Die()
 	{
 		Dead();
 		Debug.Log(name + "has died.");

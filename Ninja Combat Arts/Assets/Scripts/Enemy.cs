@@ -4,10 +4,9 @@ using UnityEngine;
 
 public class Enemy : Character {
 
-	void Die()
+	public override void Die()
     {
-		Dead();
-        Debug.Log(name + "has died.");
+		base.Die();
 		Destroy(gameObject);
     }
 }

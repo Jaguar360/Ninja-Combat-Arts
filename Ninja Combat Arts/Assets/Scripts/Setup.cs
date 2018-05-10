@@ -62,6 +62,7 @@ public class Setup : MonoBehaviour
 		{
 			text.text = "Battle begin!";
 			battle.Begin(player);
+			phase++;
 		}
 	}
 

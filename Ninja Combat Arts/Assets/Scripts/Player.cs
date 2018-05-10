@@ -19,4 +19,9 @@ public class Player : Character
     {
         return curKi;
     }
+
+	public void consumeKi(int amount) 
+	{
+		curKi -= amount;
+	}
 }
