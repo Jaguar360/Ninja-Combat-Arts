@@ -1,17 +1,19 @@
 ﻿<Properties StartupConfiguration="{55F5C261-1DCF-FF79-FF50-87BE50373C1A}|">
   <MonoDevelop.Ide.ItemProperties.Ninja_220Combat_220Arts PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../NJIT/Spring 2018/IT286/IT286 Design Challenge 1/Assets/Scripts/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HealItem.cs">
     <Files>
+      <File FileName="../../../NJIT/Spring 2018/IT286/IT286 Design Challenge 1/Assets/Scripts/Main.cs" Line="47" Column="9" />
       <File FileName="Assets/Scripts/Setup.cs" Line="65" Column="12" />
       <File FileName="Assets/Scripts/Stat.cs" Line="8" Column="18" />
-      <File FileName="Assets/Scripts/Character.cs" Line="42" Column="15" />
+      <File FileName="Assets/Scripts/Character.cs" Line="25" Column="12" />
       <File FileName="Assets/Scripts/Player.cs" Line="25" Column="19" />
       <File FileName="Assets/Scripts/Enemy.cs" Line="10" Column="1" />
-      <File FileName="Assets/Scripts/Battle.cs" Line="157" Column="25" />
-      <File FileName="../../../NJIT/Spring 2018/IT286/IT286 Design Challenge 1/Assets/Scripts/Main.cs" Line="47" Column="9" />
-      <File FileName="Assets/Scripts/Technique.cs" Line="6" Column="39" />
+      <File FileName="Assets/Scripts/Battle.cs" Line="74" Column="34" />
+      <File FileName="Assets/Scripts/Technique.cs" Line="8" Column="13" />
       <File FileName="Assets/Scripts/Recovpo.cs" Line="6" Column="2" />
       <File FileName="Assets/Scripts/DamageNinpo.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Item.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/HealItem.cs" Line="7" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

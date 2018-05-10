@@ -22,6 +22,7 @@ public class Battle : MonoBehaviour
 	private int i;
 	private Recovpo recovpo;
 	private DamageNinpo dmgSpell;
+	private HealItem healItem;
 
 	// Use this for initialization
 	void Start () 
@@ -39,6 +40,7 @@ public class Battle : MonoBehaviour
 		i = 0;
 		recovpo = FindObjectOfType<Recovpo>();
 		dmgSpell = FindObjectOfType<DamageNinpo>();
+		healItem = FindObjectOfType<HealItem>();
 	}
 	
 	// Update is called once per frame
@@ -72,6 +74,7 @@ public class Battle : MonoBehaviour
 		attack.onClick.AddListener(Attack);
 		recov.onClick.AddListener(Recov);
 		pyro.onClick.AddListener(Pyro);
+		sushi.onClick.AddListener(Sushi);
 
 		UpdateHealth();      
 
@@ -211,13 +214,61 @@ public class Battle : MonoBehaviour
 			Debug.Log(ninja.name + " healed " + healAmount + " damage!");
 			text.text = "\n" + ninja.name + " healed " + healAmount + " damage!";
 
+			int enemyDamage = curEnemy.Attack();
+
+            Debug.Log(ninja.name + " took " + enemyDamage + " damage!");
+            text.text += "\n" + ninja.name + " took " + enemyDamage + " damage!";
+
+			ninja.TakeDamage(enemyDamage);
+
+            if (gameOver)
+            {
+                foreach (Button button in FindObjectsOfType<Button>())
+                {
+                    button.gameObject.SetActive(false);
+                }
+                text.text += "\nGame Over\nPress Esc or R to restart";
+            }
+
 			UpdateHealth();
+			Continue();
 		}
 	}
 
 	void Sushi() 
 	{
-		
+		if (healItem.count < 1) 
+		{
+			text.text = "Ran out of " + healItem.name;	
+		}
+
+		else 
+		{
+			ninja.Heal(healItem.healAmt);
+			healItem.count--;
+
+			Debug.Log(ninja.name + " healed " + healItem.healAmt + " damage!");
+			text.text = "\n" + ninja.name + " healed " + healItem.healAmt + " damage!";
+
+			int enemyDamage = curEnemy.Attack();
+
+            Debug.Log(ninja.name + " took " + enemyDamage + " damage!");
+            text.text += "\n" + ninja.name + " took " + enemyDamage + " damage!";
+
+			ninja.TakeDamage(enemyDamage);
+
+            if (gameOver)
+            {
+                foreach (Button button in FindObjectsOfType<Button>())
+                {
+                    button.gameObject.SetActive(false);
+                }
+                text.text += "\nGame Over\nPress Esc or R to restart";
+            }
+
+            UpdateHealth();
+			Continue();
+		}
 	}
 
 	void UpdateHealth() 
